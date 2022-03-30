@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, folks! 👋
 
-<!--
-**carlos-alvarezdelavega/carlos-alvarezdelavega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Carlos Alvarez, a UX researcher & designer interested in the future of work. Check out [my portfolio and latest research projects](https://carlosalvarez.org/). My expertise sits at the intersection of social computing research, technology design, and multimedia storytelling. I'm a PhD candidate in human-computer interaction (HCI) [@Northumbria University](https://northlab.uk/) in the UK. 
 
-Here are some ideas to get you started:
+I'm Currently:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Learning programming on [Codecademy](https://www.codecademy.com/).
+- 📚 Reading [_Design Justice_](https://design-justice.pubpub.org/) by Sasha Constanza-Chock.
+- 🌿 Cooking plant-based meals.
+
+I build meaningful experiences on:
+
+<img align="left" alt="Figma" width="60px" src="https://d33wubrfki0l68.cloudfront.net/fa0390288b13b22f4eaef7d23ae9d2b75eed5994/2fd5e/assets/images/content/figma-logo-thumb-m.svg">
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
