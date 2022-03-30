@@ -4,7 +4,7 @@ I'm Carlos Alvarez, a UX researcher & designer interested in the future of work.
 
 I'm Currently:
 
-- 💻 Learning programming on [Codecademy](https://www.codecademy.com/).
+- 💻 Learning web development on [Codecademy](https://www.codecademy.com/).
 - 📚 Reading [_Design Justice_](https://design-justice.pubpub.org/) by Sasha Constanza-Chock.
 - 🌿 Cooking plant-based meals.
 
