@@ -5,7 +5,7 @@ I'm Carlos Alvarez, a UX researcher/designer interested in the future of work. C
 I'm Currently:
 
 - 💻 Learning front-end development on [Codecademy (see profile)](https://www.codecademy.com/](https://www.codecademy.com/profiles/carlosAlvarez6382984489)).
-- 📚 Reading [Design Justice](https://design-justice.pubpub.org/) by Sasha Constanza-Chock.
+- 📚 Reading [The Circle](https://www.wired.com/2013/10/the-circle-review-dave-eggers/) by Dave Eggers.
 - 🌿 Cooking plant-based meals.
 
 I build meaningful experiences with:
