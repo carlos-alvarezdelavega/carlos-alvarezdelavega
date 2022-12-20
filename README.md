@@ -1,6 +1,6 @@
 # Hi, folks! 👋🏽
 
-I'm Carlos Alvarez, a UX researcher/designer interested in the future of work. Check out [my portfolio and latest research projects](https://carlosalvarez.org/). My expertise sits at the intersection of social computing research, technology design, and multimedia storytelling. I'm a PhD candidate in human-computer interaction (HCI) [@Northumbria University](https://northlab.uk/) in the UK. 
+I'm Carlos Alvarez, a UX researcher/designer interested in the future of work. Check out [my portfolio and latest research projects](https://carlosalvarez.org/). My expertise sits at the intersection of social computing research, technology design, and multimedia storytelling. I'm a PhD graduand in human-computer interaction (HCI) [@Northumbria University](https://northlab.uk/) in the UK. 
 
 I'm Currently:
 
