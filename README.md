@@ -1,14 +1,6 @@
 # Hi, folks! 👋🏽
 
-I'm Carlos Alvarez, a UX researcher/designer interested in the future of work. Check out [my portfolio and latest research projects](https://carlosalvarez.org/). My expertise sits at the intersection of social computing research, technology design, and multimedia storytelling. I'm a PhD graduand in human-computer interaction (HCI) [@Northumbria University](https://northlab.uk/) in the UK. 
-
-I'm Currently:
-
-- 💻 Learning front-end development on [Codecademy (see profile)](https://www.codecademy.com/](https://www.codecademy.com/profiles/carlosAlvarez6382984489)).
-- 🔧 Building my UX Research/Design Portfolio.
-- 📚 Reading [Digital Labor](https://www.wiley.com/en-us/Digital+Labor-p-9781509545209) by Kylie Jarrett.
-- 🎲 Playing D&D 5e.
-
+I'm Carlos Alvarez, a UX researcher interested in the future of work. Check out [my portfolio and latest research projects](https://carlosalvarez.org/). 
 
 I build meaningful experiences with:
 
